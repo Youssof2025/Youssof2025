@@ -32,11 +32,6 @@
 <br />
 <br />
 
-<img align="left" alt="Youssof's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Youssof2025&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-
 [website]: https://youssof.live
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
