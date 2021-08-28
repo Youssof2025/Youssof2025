@@ -4,14 +4,15 @@
 
 ## I'm a Brother, Student, and programmer!
 
-- 🔭 I'm currently working on my [website][website]
+- 🔭 I'm currently working on my [Website][website]
 - 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to code with other students
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games
 
 ### Connect with me:
 
-[<img align="left" alt="youssof.live" width="22px" src="imgs/icons8-globe.png" />][website]
+[<img align="left" alt="youssof.live" width="22px" src="imgs/icons8-globe_with_meridians.png" />][website]
 
 <br />
 
