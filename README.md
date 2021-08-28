@@ -6,7 +6,7 @@
 
 - 🔭 I'm Currently Working on my [Website][website]
 - 🌱 I’m Currently Learning Everything 🤣
-- 👯 I’m Looking to Code with Other Students
+- 🤝 I’m Looking to Code with Other Students
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love to Draw and Play Games
 
