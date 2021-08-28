@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=youssof.live&style=for-the-badge&url=https%3A%2F%2Fyoussof.live)](https://youssof.live)
 
-## I'm a Brother, Student, and programmer!
+## I'm a Brother, Student, and Programmer!
 
 - 🔭 I'm Currently Working on my [Website][website]
 - 🌱 I’m Currently Learning Everything 🤣
@@ -28,6 +28,10 @@
 [<img align="left" alt="Git" width="26px" src="imgs/icons8-git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="imgs/icons8-github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+---
+
+<img align="left" alt="Youssof's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Youssof2025&show_icons=true&hide_border=true" />
 
 <br />
 <br />
