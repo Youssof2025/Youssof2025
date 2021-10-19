@@ -4,9 +4,9 @@
 
 ## I'm a Brother, Student, and Programmer!
 
-- 🔭 I'm Currently Working on a [Repository Finder][repofinder]
-- 🌱 I’m Currently Learning Everything 🤣
-- 🤝 I’m Looking to Code with Other Students
+- 🔭 I'm Currently Working on a Game
+- 🌱 I’m Currently Learning Game Development 🎮
+- 🤝 I’m Looking to Create a Game from Scratch
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love to Draw and Play Games
 
