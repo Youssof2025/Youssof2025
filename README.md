@@ -8,7 +8,7 @@
 - 🌱 I’m Currently Learning Game Development 🎮
 - 🤝 I’m Looking to Create a Game from Scratch
 - 🥅 2022 Goal: Create the First Beta of my Game
-- ⚡ Fun fact: I Love to Draw and Play Games
+- ⚡ Fun fact: I Love to Play Games
 
 ### Connect with me:
 
