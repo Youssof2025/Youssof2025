@@ -7,7 +7,7 @@
 - 🔭 I'm Currently Working on a Game
 - 🌱 I’m Currently Learning Game Development 🎮
 - 🤝 I’m Looking to Create a Game from Scratch
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goal: Create the First Beta of my Game
 - ⚡ Fun fact: I Love to Draw and Play Games
 
 ### Connect with me:
