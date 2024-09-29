@@ -2,17 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=youssof.live&style=for-the-badge&url=https%3A%2F%2Fyoussof.live)](https://youssof.live)
 
-## I'm a Brother, Student, and Programmer!
+## I'm a Big Brother, Student, and Developer!
 
-- 🔭 I'm Currently Working on a Game
-- 🌱 I’m Currently Learning Game Development 🎮
-- 🤝 I’m Looking to Create a Game from Scratch
-- 🥅 2022 Goal: Create the First Beta of my Game
-- ⚡ Fun fact: I Love to Play Games
-
-### Connect with me:
-
-[<img align="left" alt="youssof.live" width="22px" src="imgs/icons8-globe_with_meridians.png" />][website]
+- 🌱 I’m Currently Working On Honing my Development Skills
+- 🤝 I’m Looking to Create Something from Scratch
+- 🥅 2025 Goal: Earn the IB Diploma
+- ⚡ Fun fact: I Love to Workout
 
 <br />
 
