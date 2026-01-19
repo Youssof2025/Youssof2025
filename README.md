@@ -1,12 +1,11 @@
 ### Hi there, I'm [Youssof][website] 👋
 
-[![Website](https://img.shields.io/website?label=youssof.live&style=for-the-badge&url=https%3A%2F%2Fyoussof.live)](https://youssof.live)
+[![Website](https://img.shields.io/website?label=youssof.live&style=for-the-badge&url=https%3A%2F%2Fyoussof.live)](https://youssoftech.dev/)
 
-## I'm a Big Brother, Student, and Developer!
+## I'm a Big Brother, Student, and Engineer!
 
-- 🌱 I’m Currently Working On Honing my Development Skills
-- 🤝 I’m Looking to Create Something from Scratch
-- 🥅 2025 Goal: Earn the IB Diploma
+- 🌱 I’m Currently Working On My Engineering Portfolio
+- 🥅 2026 Goal: 4.0 GPA
 - ⚡ Fun fact: I Love to Workout
 
 ### Languages and Tools:
@@ -34,7 +33,7 @@
 
 </details>
 
-[website]: https://youssof.live
+[website]: https://youssoftech.dev/
 [repofinder]: https://github.com/Youssof2025/Repository-Finder
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
