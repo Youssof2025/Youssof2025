@@ -1,6 +1,6 @@
 ### Hi there, I'm [Youssof][website] 👋
 
-[![Website](https://img.shields.io/website?label=youssof.live&style=for-the-badge&url=https%3A%2F%2Fyoussoftech.dev)](https://youssoftech.dev/)
+[![Website](https://img.shields.io/website?label=youssoftech.dev&style=for-the-badge&url=https%3A%2F%2Fyoussoftech.dev)](https://youssoftech.dev/)
 
 ## I'm a Big Brother, Student, and Engineer!
 
